@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Laptop", "category": "Electronics", "price": 50000 },
+  { "id": 2, "name": "Phone", "category": "Electronics", "price": 20000 },
+  { "id": 3, "name": "Headphones", "category": "Electronics", "price": 3000 },
+  { "id": 4, "name": "Shoes", "category": "Fashion", "price": 2500 },
+  { "id": 5, "name": "T-shirt", "category": "Fashion", "price": 800 },
+  { "id": 6, "name": "Watch", "category": "Accessories", "price": 4000 },
+  { "id": 7, "name": "Backpack", "category": "Accessories", "price": 1500 },
+  { "id": 8, "name": "Tablet", "category": "Electronics", "price": 30000 },
+  { "id": 9, "name": "Sunglasses", "category": "Accessories", "price": 1200 },
+  { "id": 10, "name": "Jacket", "category": "Fashion", "price": 3500 }
+]
